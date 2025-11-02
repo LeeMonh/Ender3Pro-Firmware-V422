@@ -1,0 +1,3 @@
+# Pasos post-flash y calibración
+1. Flashea firmware.bin desde SD.
+2. Calibra E-steps, PID y movimientos.
